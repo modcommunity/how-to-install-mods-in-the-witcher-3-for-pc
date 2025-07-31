@@ -1,14 +1,10 @@
-<div align="center">
-
-![banner](./images/banner.png)
-
-</div>
-
 A guide on how to **download** and **install mods** in **The Witcher 3 (Wild Hunt)** on PC. 
 
 With that said, we've included instructions for using [Vortex](https://www.nexusmods.com/about/vortex/), the recommended mod manager by [Nexus Mods](https://www.nexusmods.com/), and how to install mods manually if preferred.
 
 This guide is focused on **Windows**, but users using Linux and running The Witcher 3 through **Steam Proton** and/or **Wine** should be able to use many of the steps listed below without any issues!
+
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-install-mods-for-the-witcher-3/)
 
 ## Table Of Contents
 * [Requirements](#requirements)
